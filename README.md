@@ -15,7 +15,7 @@ Antes de ejecutar, verifica que el proyecto tenga esta estructura:
 
 ```
 ecg-visualizacion/
-├── visualize_superclasses.py     ← script principal
+├── visualize_superclasses V2.py     ← script principal
 ├── requirements.txt              ← dependencias
 ├── README.md                     ← este archivo
 │
