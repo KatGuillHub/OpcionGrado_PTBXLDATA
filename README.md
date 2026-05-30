@@ -20,6 +20,7 @@ ecg-visualizacion/
 ├── README.md                     ← este archivo
 │
 ├── res/
+│   └── embeddings - porfavor descargar desde el drive ya que es demasiado grande para el github - https://drive.google.com/drive/folders/15h1tc2VUHEynLniLuVcCxqm_eCQD4OEH?usp=sharing
 │   └── projections_no_prereduction/
 │       ├── proj_umap_2d_no_prereduction.npy
 │       ├── proj_umap_3d_no_prereduction.npy
@@ -36,8 +37,7 @@ ecg-visualizacion/
 │
 ├── csv/
 │   └── ptbxl_label.csv
-│
-└── ptb-xl-data/
+└── ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3/ - porfavor descargar desde el drive ya que es demasiado grande para el github - https://drive.google.com/drive/folders/15h1tc2VUHEynLniLuVcCxqm_eCQD4OEH?usp=sharing
     ├── ptbxl_database.csv
     └── scp_statements.csv
 ```
