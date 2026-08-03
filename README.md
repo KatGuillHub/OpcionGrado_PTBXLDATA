@@ -37,7 +37,7 @@ ecg-visualizacion/
 │
 ├── csv/
 │   └── ptbxl_label.csv
-└── ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3/ - porfavor descargar desde el drive ya que es demasiado grande para el github - https://drive.google.com/drive/folders/15h1tc2VUHEynLniLuVcCxqm_eCQD4OEH?usp=sharing
+└── ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3/ - porfavor descargar desde el drive ya que es demasiado grande para el github - https://drive.google.com/drive/folders/15h1tc2VUHEynLniLuVcCxqm_eCQD4OEH?usp=sharing o descargar de la pagina de physionet: https://www.physionet.org/content/ptb-xl/1.0.3/
     ├── ptbxl_database.csv
     └── scp_statements.csv
 ```
