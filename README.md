@@ -1,7 +1,7 @@
 # ECGFounder — Visualización del Espacio Latente
 
 **Proyecto de grado · Universidad Militar Nueva Granada · Grupo GIM**  
-**Autor:** Guillermo Castellanos  
+**Autor:** Guillermo Andres Campo Benjumea 
 **Director:** Prof. Wilson J. Sarmiento
 
 Visualización interactiva 2D/3D del espacio latente del modelo ECGFounder (1024D),
